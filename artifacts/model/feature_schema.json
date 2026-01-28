@@ -1,0 +1,25 @@
+{
+    "feature_names": [
+        "Age",
+        "Annual Income",
+        "Employment Length (years)",
+        "Loan Amount",
+        "Interest Rate",
+        "Loan to Income Ratio",
+        "Credit History Length (years)",
+        "Home Ownership_MORTGAGE",
+        "Home Ownership_OTHER",
+        "Home Ownership_OWN",
+        "Home Ownership_RENT",
+        "Loan Intent_DEBTCONSOLIDATION",
+        "Loan Intent_EDUCATION",
+        "Loan Intent_HOMEIMPROVEMENT",
+        "Loan Intent_MEDICAL",
+        "Loan Intent_PERSONAL",
+        "Loan Intent_VENTURE",
+        "Has Defaulted_N",
+        "Has Defaulted_Y",
+        "loan_grade_encoded"
+    ],
+    "num_features": 20
+}
