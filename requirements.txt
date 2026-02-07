@@ -12,3 +12,4 @@ llvmlite==0.42.0
 
 tqdm
 cloudpickle
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
